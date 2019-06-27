@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 85f9e46ccc50e7f42bce018b0d60ac90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1562920426200296910
+    second: voor_achter_en_zij_0
+  - first:
+      213: -7020726667510028423
+    second: voor_achter_en_zij_1
+  - first:
+      213: -4074814085518348437
+    second: voor_achter_en_zij_2
+  - first:
+      213: 4974538504643639562
+    second: voor_achter_en_zij_3
+  - first:
+      213: 704020565443566395
+    second: voor_achter_en_zij_4
+  - first:
+      213: 3447685021242332003
+    second: voor_achter_en_zij_5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: voor_achter_en_zij_0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 83
+        width: 812
+        height: 2341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae52ab716558c94187a3fe7e4defc97
+      internalID: 1562920426200296910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voor_achter_en_zij_1
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 73
+        width: 797
+        height: 2351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -389.5, y: -1163.5}
+        - {x: -398.5, y: 1175.5}
+        - {x: 398.5, y: 1168.5}
+        - {x: 380.5, y: 353.5}
+        - {x: 335.5, y: 202.5}
+        - {x: 357.5, y: 10.5}
+        - {x: 369.5, y: -1163.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22394a088facf2e4391726b859df85fc
+      internalID: -7020726667510028423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voor_achter_en_zij_2
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 70
+        width: 819
+        height: 2351
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -409.5, y: -1175.5}
+        - {x: -409.5, y: 419.5}
+        - {x: -325.5, y: 1175.5}
+        - {x: 409.5, y: 1175.5}
+        - {x: 409.5, y: -1175.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860e496bb2b874e4d98c18fd08b570a2
+      internalID: -4074814085518348437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voor_achter_en_zij_3
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 49
+        width: 800
+        height: 2368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154d55932072cf443a90339b15957fd0
+      internalID: 4974538504643639562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voor_achter_en_zij_4
+      rect:
+        serializedVersion: 2
+        x: 3445
+        y: 2104
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add69b3a81d478e46810471103ca8d0a
+      internalID: 704020565443566395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: voor_achter_en_zij_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f991a8601fcb64c478e0a991bcec01ff
+      internalID: 3447685021242332003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e8665606505a48f459543dcd160b5f73
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
